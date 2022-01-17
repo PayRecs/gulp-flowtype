@@ -8,4 +8,3 @@
 .*/node_modules/babel-core/lib/transformation/*
 .*/node_modules/babel-helper-regex/lib/index.js
 [options]
-suppress_comment= \\(.\\|\n\\)*\\$FlowFixMe
